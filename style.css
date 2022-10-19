@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+:root{
+    --cor1:#F2A71B;
+    --cor2:#F2B84B;
+    --cor3:#FFEC5C;
+}
+
+img{
+    padding-top: 10px;
+    background-color: #f2a71b9a;
+    border-radius: 6px;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.514);
+}
+
+header{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    background-image: url(imagens/tijolo.jpg);
+
+}
+header menu{
+    height: 50px;
+    padding-top: 30px;
+    
+}
+menu a{
+    text-decoration: none;
+    color:white;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+menu a:hover{
+    background-color: rgba(0, 0, 0, 0.541);
+    transition: .6s;
+
+}
