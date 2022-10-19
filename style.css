@@ -19,11 +19,13 @@ header{
     padding: 0px;
     text-align: center;
     background-image: url(imagens/tijolo.jpg);
+    background-size: cover;
 
 }
 header menu{
     height: 50px;
     padding-top: 30px;
+    padding-left: 0px;
     
 }
 menu a{
