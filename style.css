@@ -31,6 +31,7 @@ header menu{
     height: 50px;
     padding-top: 30px;
     padding-left: 0px;
+    margin-bottom: 0px;
     
 }
 menu a{
@@ -46,4 +47,22 @@ menu a:hover{
     background-color: rgba(0, 0, 0, 0.541);
     transition: .6s;
 
+}
+
+main{
+    margin: auto;
+    background-image: url(imagens/wallpaper004.jpg);
+    height: 2000px;
+    background-size: cover;
+    text-align: center;
+    max-width: 1000px;
+    min-width: 280px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.61);
+}
+h2{
+    text-align: left;
+}
+.ansiedade{
+    text-align: left;
 }
